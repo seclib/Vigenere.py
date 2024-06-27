@@ -11,10 +11,6 @@ The second keyword, which creates the lines undeaneath the top line. This finish
 
 The passage to encrypt/decrypt.
 
-You can take a look at this rather quick YouTube video to see the basics of how Vigenere ciphers work.
-
-https://www.youtube.com/watch?v=0Pm2PrxmU38
-
 I would suggest you try first doing something where you know the keys, as well as the encrypted/decrypted passages just to test that it is working. Something like the first Kryptos passage (K1) from the CIA Kryptos sculpture which is listed below. Please note that "illusion" in the text below is intentionally misspelled:
 
 ENCRYPT
